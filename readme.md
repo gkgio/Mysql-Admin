@@ -6,7 +6,6 @@
 <br>
 
 <h2>QUICK START</h2>
-<p>Install MySQL Community Server</p>
-<a href="http://dev.mysql.com/downloads/mysql/"></a>
+<p><a href="http://dev.mysql.com/downloads/mysql/">Install MySQL Community Server</a></p>
 <p> Create database and tables </p>
 
